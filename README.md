@@ -29,7 +29,3 @@ I build tools for computer vision.
 - **[gshell](https://github.com/wkentaro/gshell)** ★112+ - navigate Google Drive as you do on a shell
 - **[reorientbot](https://github.com/wkentaro/reorientbot)** - learning object reorientation for posed placement (ICRA 2022)
 - **[safepicking](https://github.com/wkentaro/safepicking)** - safe object extraction via object-level mapping (ICRA 2022)
-
----
-
-[wkentaro.com](https://wkentaro.com)
