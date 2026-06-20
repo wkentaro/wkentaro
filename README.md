@@ -17,7 +17,8 @@ I build tools for computer vision.
 - **[moviepy-cli](https://github.com/wkentaro/moviepy-cli)** - edit videos from the command line via MoviePy
 - **[jqk](https://github.com/wkentaro/jqk)** - render JSON with jq patterns
 - **[git-hunk](https://github.com/wkentaro/git-hunk)** - non-interactive git hunk staging for AI agents
-- **[ihq](https://github.com/wkentaro/ihq)** - externalize git-ignored files to a synced, identity-derived store
+- **[ihq](https://github.com/wkentaro/ihq)** _(wip)_ - externalize git-ignored files to a synced, identity-derived store
+- **[acron](https://github.com/wkentaro/acron)** _(wip)_ - schedule unattended coding agents on your own server via cron
 
 ### Past work
 
