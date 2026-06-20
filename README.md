@@ -27,5 +27,5 @@ I build tools for computer vision.
 - **[fcn](https://github.com/wkentaro/fcn)** ★216+ - Fully Convolutional Networks in Chainer
 - **[video-cli](https://github.com/wkentaro/video-cli)** ★136+ - command-line tools for quick video editing
 - **[gshell](https://github.com/wkentaro/gshell)** ★112+ - navigate Google Drive as you do on a shell
-- **[reorientbot](https://github.com/wkentaro/reorientbot)** - learning object reorientation for posed placement (ICRA 2022)
-- **[safepicking](https://github.com/wkentaro/safepicking)** - safe object extraction via object-level mapping (ICRA 2022)
+- **[reorientbot](https://github.com/wkentaro/reorientbot)** ★58+ - learning object reorientation for posed placement (ICRA 2022)
+- **[safepicking](https://github.com/wkentaro/safepicking)** ★56+ - safe object extraction via object-level mapping (ICRA 2022)
