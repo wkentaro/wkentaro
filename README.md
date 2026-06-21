@@ -13,10 +13,10 @@ I build tools for computer vision.
 ### CLIs & utilities
 
 - **[gdown](https://github.com/wkentaro/gdown)** ★5.3k+ - download Google Drive files that wget and curl choke on
-- **[imshow](https://github.com/wkentaro/imshow)** - display images from Python with a customizable viewer
 - **[video-cli](https://github.com/wkentaro/video-cli)** ★136+ - crop, trim, retime, and convert videos with one-line commands
 - **[moviepy-cli](https://github.com/wkentaro/moviepy-cli)** - edit videos from the command line via MoviePy
 - **[jqk](https://github.com/wkentaro/jqk)** - render JSON with jq patterns
+- **[imshow](https://github.com/wkentaro/imshow)** - display images from Python with a customizable viewer
 - **[git-hunk](https://github.com/wkentaro/git-hunk)** - non-interactive git hunk staging for AI agents
 - **[ihq](https://github.com/wkentaro/ihq)** _(wip)_ - externalize git-ignored files to a synced, identity-derived store
 - **[acron](https://github.com/wkentaro/acron)** _(wip)_ - schedule unattended coding agents on your own server via cron
