@@ -18,6 +18,7 @@ I build tools for computer vision.
 - **[jqk](https://github.com/wkentaro/jqk)** - render JSON with jq patterns
 - **[imshow](https://github.com/wkentaro/imshow)** - display images from Python with a customizable viewer
 - **[git-hunk](https://github.com/wkentaro/git-hunk)** - non-interactive git hunk staging for AI agents
+- **[gruff](https://github.com/wkentaro/gruff)** _(wip)_ - lint Python code for maintainability alongside Ruff
 - **[ihq](https://github.com/wkentaro/ihq)** _(wip)_ - externalize git-ignored files to a synced, identity-derived store
 - **[acron](https://github.com/wkentaro/acron)** _(wip)_ - schedule unattended coding agents on your own server via cron
 
