@@ -5,8 +5,8 @@ I build tools for computer vision.
 - **[labelme](https://github.com/wkentaro/labelme)** ★16k+ - label images for segmentation, detection, and classification
 - **[imgviz](https://github.com/wkentaro/imgviz)** ★268+ - visualize images and labels without OpenCV or matplotlib
 - **[octomap-python](https://github.com/wkentaro/octomap-python)** ★100+ - Python bindings for the OctoMap 3D mapping library
-- **[osam](https://github.com/wkentaro/osam)** ★100+ - run SAM1/2/3, EfficientSAM, YOLO-World, and other promptable vision models locally
-- **[sam3-onnx](https://github.com/wkentaro/sam3-onnx)** ★100+ - ONNX export and inference for SAM3
+- **[osam](https://github.com/wkentaro/osam)** ★110+ - run SAM1/2/3, EfficientSAM, YOLO-World, and other promptable vision models locally
+- **[sam3-onnx](https://github.com/wkentaro/sam3-onnx)** ★120+ - ONNX export and inference for SAM3
 - **[yolo-world-onnx](https://github.com/wkentaro/yolo-world-onnx)** - ONNX models for YOLO-World open-vocabulary detection
 - **[labelme-satellite-image-demo](https://github.com/wkentaro/labelme-satellite-image-demo)** - annotate satellite imagery with labelme and convert to GeoJSON for QGIS
 
